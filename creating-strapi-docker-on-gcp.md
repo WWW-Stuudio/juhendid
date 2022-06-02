@@ -16,3 +16,8 @@
 
 ### Folder
 `gcloud compute scp --recurse database --zone "europe-west2-b" disco-elysium-wp2:~/wp-data/ --project "bigdrive-332209"`
+
+
+### Wordpress starter repo
+https://github.com/nezhar/wordpress-docker-compose
+
